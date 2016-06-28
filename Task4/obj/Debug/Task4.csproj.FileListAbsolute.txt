@@ -1,0 +1,12 @@
+c:\users\zueva\documents\visual studio 2012\Projects\Zueva_Natalia_Task1\Task4\bin\Debug\Task4.exe.config
+c:\users\zueva\documents\visual studio 2012\Projects\Zueva_Natalia_Task1\Task4\bin\Debug\Task4.exe
+c:\users\zueva\documents\visual studio 2012\Projects\Zueva_Natalia_Task1\Task4\bin\Debug\Task4.pdb
+c:\users\zueva\documents\visual studio 2012\Projects\Zueva_Natalia_Task1\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+c:\users\zueva\documents\visual studio 2012\Projects\Zueva_Natalia_Task1\Task4\obj\Debug\Task4.exe
+c:\users\zueva\documents\visual studio 2012\Projects\Zueva_Natalia_Task1\Task4\obj\Debug\Task4.pdb
+C:\Users\Natali\Desktop\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Task4\bin\Debug\Task4.exe.config
+C:\Users\Natali\Desktop\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Task4\bin\Debug\Task4.exe
+C:\Users\Natali\Desktop\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Task4\bin\Debug\Task4.pdb
+C:\Users\Natali\Desktop\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+C:\Users\Natali\Desktop\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Task4\obj\Debug\Task4.exe
+C:\Users\Natali\Desktop\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Task4\obj\Debug\Task4.pdb

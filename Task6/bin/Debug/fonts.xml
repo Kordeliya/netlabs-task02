@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDataFont xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataFont>
+    <NameFont>None</NameFont>
+    <Type>Bold</Type>
+  </DataFont>
+  <DataFont>
+    <NameFont>Bold</NameFont>
+    <Type>Bold</Type>
+  </DataFont>
+  <DataFont>
+    <NameFont>Bold Italic</NameFont>
+    <Type>Bold</Type>
+  </DataFont>
+  <DataFont>
+    <NameFont>Italic</NameFont>
+    <Type>UnderLine</Type>
+  </DataFont>
+</ArrayOfDataFont>
