@@ -61,7 +61,7 @@ namespace Task1
                 }
                 else
                 {
-                    Console.WriteLine(Environment.NewLine);
+                    Console.WriteLine("Не валидное значение. Введите целое число");
                     value = Console.ReadLine();
                 }
 

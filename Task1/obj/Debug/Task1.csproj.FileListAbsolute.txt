@@ -10,3 +10,9 @@ C:\Users\Natali\Desktop\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Task1\obj\Debug\
 C:\Users\zueva\Desktop\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Task1\bin\Debug\Task1.exe.config
 C:\Users\zueva\Desktop\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Task1\obj\Debug\Task1.exe
 C:\Users\zueva\Desktop\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Zueva_Natalia_Task1\Task1\obj\Debug\Task1.pdb
+C:\Git\netlabs-task02\Task1\bin\Debug\Task1.exe.config
+C:\Git\netlabs-task02\Task1\obj\Debug\Task1.exe
+C:\Git\netlabs-task02\Task1\obj\Debug\Task1.pdb
+C:\Git\netlabs-task02\Task1\bin\Debug\Task1.exe
+C:\Git\netlabs-task02\Task1\bin\Debug\Task1.pdb
+C:\Git\netlabs-task02\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
