@@ -101,7 +101,8 @@ namespace Task6
                 }
                 else
                 {
-                    Console.WriteLine("Произошла ошибка ввода типа начертания!");
+                    Console.WriteLine("Произошла ошибка ввода типа начертания!Введите заново");
+                    choice = Console.ReadLine();
                 }
             }
             return fontData;

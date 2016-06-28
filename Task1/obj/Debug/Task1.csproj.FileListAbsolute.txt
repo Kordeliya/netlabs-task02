@@ -16,3 +16,6 @@ C:\Git\netlabs-task02\Task1\obj\Debug\Task1.pdb
 C:\Git\netlabs-task02\Task1\bin\Debug\Task1.exe
 C:\Git\netlabs-task02\Task1\bin\Debug\Task1.pdb
 C:\Git\netlabs-task02\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\GIT\new\netlabs-task02\Task1\bin\Debug\Task1.exe.config
+C:\GIT\new\netlabs-task02\Task1\obj\Debug\Task1.exe
+C:\GIT\new\netlabs-task02\Task1\obj\Debug\Task1.pdb
